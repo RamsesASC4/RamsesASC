@@ -44,11 +44,8 @@ var alien6 = {
 // var rColor = random(color)
 function setup() {
     createCanvas(800,800);
-    
-    
-    
 }
-
+if ()
 
 function draw() {
     var c = ('#0f0');
