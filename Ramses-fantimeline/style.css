@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-shadow:greenyellow;
+}
+
+.mainContent {
+     
+    border: 3px solid gold;
+    
+}
+
+img {
+    width: 25%;
+}
+
+.overview {
+    margin: 50px;
+    border: 5px solid red;
+    padding: 10px;
+    text-align: center;
+}
+
+.facts {
+    text-align: center;
+    border: 3px solid royalblue;
+    margin: 25px
+}
+p {
+    max-width: 700px;
+    display: inline-block;
+    padding-right: 100px;
+}
+
+.video {
+    border: 7px dotted greenyellow;
+    display: inline-block;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
