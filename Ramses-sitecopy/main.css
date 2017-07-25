@@ -1,0 +1,17 @@
+.jumbotron {
+    height: 70%;
+    text-align: center;
+    background: url(http://ovvooptics.com/pictures/bg/15.jpg);
+    background-size: cover;
+    color: white;
+    padding: -10;
+}
+
+.row {
+    
+    color: black;
+    padding-bottom: 10px;
+    padding-left: -10px;
+    margin: 5px;
+    width: 175%;
+}
