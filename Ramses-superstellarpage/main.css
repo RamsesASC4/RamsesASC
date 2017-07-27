@@ -1,0 +1,31 @@
+.jumbotron {
+    text-align: center;
+    color: white;
+    height: 500px;
+    background: url("http://i.imgur.com/pqdICWJ.gif");
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 150px;
+}
+
+.btn-default {
+    margin-top: -30px;
+    color: blue;
+}
+
+body{
+    background: url("https://s-media-cache-ak0.pinimg.com/736x/48/20/30/4820307498b8d01dc3971ca820a0c28b--heart-illustration-nasa-wallpaper.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    text-shadow: 3px 3px black;
+    text-align: center;
+}
+
+.vid{
+    border-bottom: 3px solid bisque;
+    padding-left: 20px;
+}
+.rowe{
+    margin-left: 20x
+}

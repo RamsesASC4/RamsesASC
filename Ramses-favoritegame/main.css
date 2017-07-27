@@ -1,0 +1,25 @@
+.jumbotron {
+    color: white;
+    background-color: black;
+    text-align: center;
+    border: 1px solid greenyellow;
+    
+}
+
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.vtainer {
+    border-bottom: 3px solid red;
+    margin-bottom: 15px; 
+    
+}
+
+.video2 {
+    border: 2px dotted blue;
+}
+
