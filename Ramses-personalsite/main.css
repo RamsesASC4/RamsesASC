@@ -1,0 +1,46 @@
+body{
+    background: url("http://webdesignhabits.com/wp-content/uploads/2012/11/post_67_13.jpg");
+background-size: cover;
+text-shadow: 3px;
+text-align: center;
+    
+}
+.jumbotron {
+    text-align: center;
+    height: 400px;
+    margin-top: -22px;
+    background: url("https://media.giphy.com/media/5xtDarnvv8j9th1RoHK/giphy.gif");
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+    border-bottom: white;
+}
+.jumbotron2 {
+    background: white;
+    background: url("http://i.imgur.com/Nbi7bYI.jpg");
+    background-size: cover;
+    height: 400px;
+    padding: 25px;
+    padding-top: -100px;
+    margin-top: -100px;
+    border-radius: 25px;
+    
+}
+.fontainer{
+    display: inline-block;
+    text-align: center;
+}
+.row3{
+    text-align: center;
+}
+.row2 {
+    padding-top: 20px;
+    margin-right: -20px;
+}
+img {
+    height: 50%
+}
+.navbar{
+    border: 0;
+    background: #333;
+}
