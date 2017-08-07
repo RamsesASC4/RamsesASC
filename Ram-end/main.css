@@ -1,0 +1,28 @@
+body{
+    background: url("http://www.rentfaxpro.com/wp-content/uploads/2015/05/work.jpg")
+}
+.jumbotron{
+    margin-top: 170px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    padding-right: 400px
+}
+
+.bar1{
+    margin: 20px
+}
+.bar2{
+margin: 20px
+}
+
+.bar3{
+margin: 20px
+}
+.bar4{
+margin: 20px
+}
+
+.logi{
+    padding-right: 100px
+}
