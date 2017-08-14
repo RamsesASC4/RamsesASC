@@ -1,0 +1,37 @@
+body{
+    background: url("https://farm5.staticflickr.com/4429/36168196380_582413f0ec_m.jpg");
+    background-size: cover; 
+    
+}
+
+.jumbotron{
+    background-color: white;
+    margin-top: 15%;
+    margin-left: 9%;
+    margin-right: 9%;
+    text-align: center;
+    padding-left: 12%;
+    padding-right: 18%
+}
+
+.bar1{
+    margin: 4%
+}
+.bar2{
+margin: 4%
+}
+
+.bar3{
+margin: 4%
+}
+.bar4{
+margin: 4%
+}
+
+.navbar{
+    background: blue;
+    color:blue;
+}
+.bttnq{
+    margin-left: 37%
+}
