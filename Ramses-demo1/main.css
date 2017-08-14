@@ -1,0 +1,17 @@
+.jumbotron1{
+    color: white;
+    background: url("https://www.planwallpaper.com/static/images/bicycle-1280x720.jpg");
+    background-size: cover;
+    padding:50px;
+    margin-right: 0px;
+}
+.jumbotron{
+    margin-right: 0px
+}
+img{
+    border: 2px solid;
+     border-radius: 25px
+ }
+.col-6{
+    margin-right: 100px
+}
