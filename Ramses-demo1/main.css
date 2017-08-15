@@ -4,9 +4,22 @@
     background-size: cover;
     padding:50px;
     margin-right: 0px;
+    text-shadow: 2px 2px black;
+}
+.fin{
+    text-align:
+}
+.col9{
+    margin-top: 10px
+}
+.continer1{
+    margin-left: 5px;
 }
 .jumbotron{
-    margin-right: 0px
+margin-top: 5px;
+    padding: 10px;
+    margin-right: 10px;
+    border: 0.5px solid;
 }
 img{
     border: 2px solid;

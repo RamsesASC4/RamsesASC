@@ -32,9 +32,8 @@ margin: 1%;
 margin-bottom: 5%
 }
 
-.navbar-expand-lg{
-    background-color: blue;
-    color:blue;
+.navbar{
+    background-color: #3097D1 !important;
 }
 .bttnq{
     margin-left: 37%
